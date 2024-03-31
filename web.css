@@ -41,7 +41,7 @@ grid-template-rows: repeat(2,1fr);
 
 }
 
-.home,.about,.projects,.feedback{
+.home,.about,.project,.feedback{
     width: fit-content;
     height: auto;
 }
